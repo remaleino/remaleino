@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Laurea University of Applied Scienses Bussines IT student.
 I (am trying to 😄) specialize in full-stack and mobile app developement, and, also, in programming with Python.
 
-## Languages and Tools
+### Languages and Tools
 
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align = "left" width = "30px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -16,7 +16,7 @@ I (am trying to 😄) specialize in full-stack and mobile app developement, and,
 <br />
 <br />
 
-## Stats
+### Stats
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=remaleino&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remaleino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
