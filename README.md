@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Laurea University of Applied Scienses Bussines IT student.
-I specialize in full-stack and mobile app developement, and, also, in programming with Python.
+I specialize in full-stack and mobile app developement, and, also, in programming with Python (take a look at the Pygame-repository).
 
 ### Languages and Tools
 
