@@ -20,5 +20,4 @@ I am interested in full-stack and mobile app developement; in DevOps; and in pro
 
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=remaleino)](https://github.com/remaleino/github-readme-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=remaleino&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remaleino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
