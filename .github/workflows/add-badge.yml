@@ -1,0 +1,15 @@
+name: Update badges
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        required: true
+        default: 'push badge'
+jobs:
+  update-readme:
+    name: Update readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: remaleino/badge-readme@main
