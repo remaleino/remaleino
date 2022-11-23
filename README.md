@@ -21,3 +21,6 @@ I am interested in full-stack and mobile app developement; in DevOps; and in pro
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=remaleino)](https://github.com/remaleino/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remaleino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9779514a2b25-461f-8aee-408901e3b687" data-share-badget-host="https://wwww.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets(utilities/embed.js"></script>
