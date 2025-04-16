@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Laurea University of Applied Scienses Bussines IT student.
+I am DevOps Engineert.
 I am interested in full-stack and mobile app developement; in DevOps; and in programming with Python (take a look at the Pygame-repository).
 
 ### Languages and Tools
